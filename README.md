@@ -1,5 +1,7 @@
 # caelestia-qt
 
+## THIS REPO IS ARCHIVED IN FAVOUR OF https://github.com/caelestia-dots/caelestia
+
 QT5 and QT6 colour schemes for my caelestia dotfiles.
 
 This uses the [Darkly](https://github.com/Bali10050/Darkly) theme.
